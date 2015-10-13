@@ -15,8 +15,7 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch',
-    'angular-svg-round-progress'
+    'ngTouch'
   ])
   .config(function ($routeProvider) {
     $routeProvider
@@ -30,25 +29,10 @@ angular
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
-      .when('/radialcss', {
-        templateUrl: 'views/radialcss.html',
-        controller: 'RadialcssCtrl',
-        controllerAs: 'radialcss'
-      })
-      .when('/angularsvg', {
-        templateUrl: 'views/angularsvg.html',
-        controller: 'AngularsvgCtrl',
-        controllerAs: 'angularsvg'
-      })
-      .when('/purecss', {
-        templateUrl: 'views/purecss.html',
-        controller: 'PurecssCtrl',
-        controllerAs: 'purecss'
-      })
-      .when('/svg', {
-        templateUrl: 'views/svg.html',
-        controller: 'SvgCtrl',
-        controllerAs: 'svg'
+      .when('/progressbar', {
+        templateUrl: 'views/progressbar.html',
+        controller: 'ProgressbarCtrl',
+        controllerAs: 'progressbar'
       })
       .otherwise({
         redirectTo: '/'

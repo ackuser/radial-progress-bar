@@ -19,3 +19,5 @@ https://github.com/crisbeto/angular-svg-round-progressbar
 http://codepen.io/JMChristensen/pen/Ablch
 
 http://fromanegg.com/post/41302147556/100-pure-css-radial-progress-bar
+
+https://365webresources.com/10-best-pure-css-loading-spinners-front-end-developers/
