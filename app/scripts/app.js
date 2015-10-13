@@ -15,7 +15,8 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'angular-svg-round-progress'
   ])
   .config(function ($routeProvider) {
     $routeProvider
