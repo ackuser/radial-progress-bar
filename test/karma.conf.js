@@ -34,6 +34,7 @@ module.exports = function(config) {
       'bower_components/angular-mocks/angular-mocks.js',
       'bower_components/angular-svg-round-progressbar/build/roundProgress.min.js',
       'bower_components/progressbar.js/dist/progressbar.js',
+      'bower_components/d3/d3.js',
       // endbower
       "app/scripts/**/*.js",
       "test/mock/**/*.js",
