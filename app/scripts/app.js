@@ -49,6 +49,11 @@ angular
         controller: 'PuresvgCtrl',
         controllerAs: 'puresvg'
       })
+      .when('/d3circular', {
+        templateUrl: 'views/d3circular.html',
+        controller: 'D3circularCtrl',
+        controllerAs: 'd3circular'
+      })
       .otherwise({
         redirectTo: '/progressbar'
       });

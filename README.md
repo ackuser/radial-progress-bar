@@ -31,3 +31,13 @@ http://codepen.io/rogerxu/pen/rLqvd
 http://stackoverflow.com/questions/32645053/is-it-possible-to-make-svg-circle-fill-color-from-bottom-to-top-based-on-percent?lq=1
 
 http://stackoverflow.com/questions/20913869/wrap-text-within-circle
+
+
+https://github.com/mbostock/d3/wiki/Gallery
+
+I NEED TO IMPLEMENT THESE:
+
+
+http://www.brightpointinc.com/clients/brightpointinc.com/library/radialProgress/index.html?source=d3js
+
+http://bl.ocks.org/xiaoxinghu/6ffd42cf0b76fd4819b7

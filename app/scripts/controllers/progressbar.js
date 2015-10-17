@@ -18,7 +18,7 @@ angular.module('cssradialApp')
 
 
 
-var circle = new ProgressBar.Circle('#container', {
+var circle = new ProgressBar.Circle('#containerProgressbar', {
     color: '#FCB03C',
     strokeWidth: 3,
     trailWidth: 1,
